@@ -26,9 +26,13 @@ Arayüz tasarımının ikinci kısmında ise model uydudan alınan verilerin det
 ## Gerekli Kütüphaneler
 
 PyQt5
+
 PyQtWebEngine
+
 matplotlib
+
 folium
+
 numpy
 
 ## Önemli Notlar
